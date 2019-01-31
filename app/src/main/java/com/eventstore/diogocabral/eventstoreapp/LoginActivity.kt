@@ -5,6 +5,8 @@ import android.os.Bundle
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_login.loginButton
+import kotlinx.android.synthetic.main.activity_login.emailEditText
+import kotlinx.android.synthetic.main.activity_login.passwordEditText
 
 class LoginActivity : AppCompatActivity() {
 
